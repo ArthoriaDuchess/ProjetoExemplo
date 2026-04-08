@@ -107,17 +107,6 @@ pre {
     height: 130px;
 }
 
-/* camada de trás */
-.fundo-logo {
-    position: absolute;
-    width: 280%;
-    height: 150%;
-    object-fit: contain;
-    z-index: 0;
-    top: 0%;
-    left: -70%;
-}
-
 /* personagem (frente) */
 .personagem {
     position: relative;
